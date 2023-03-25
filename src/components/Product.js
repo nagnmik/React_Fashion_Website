@@ -59,7 +59,7 @@ function Product() {
         
       </div>
       <h4 className='sale-heading'>NEW ARRIVALS</h4>
-      <div className="trip-card">
+      <div className="product-card">
         <ProductData
             image={Product7}
             heading="QUẦN VẢI METUS – 2898"
@@ -93,7 +93,7 @@ function Product() {
         
       </div>
       <h4 className='sale-heading'>BEST SELLERS</h4>
-      <div className="trip-card">
+      <div className="product-card">
         <ProductData
             image={Product13}
             heading="QUẦN VẢI METUS – 2898"
